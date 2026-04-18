@@ -8,6 +8,7 @@ The content here focuses on practical skills, methodologies, and technical deep-
 
 - [**Security Audit Training**](./formation_audit-de-securite/): A comprehensive course on cybersecurity auditing techniques and methodologies.
 - [**OSINT Training**](./formation_osint/): Advanced techniques for Open Source Intelligence and digital investigations.
+- [**Dark Web Training**](./formation_dark-web/): Specialized modules on secure navigation, OPSEC, and investigations on the Tor network.
 
 ## Goal
 
