@@ -66,7 +66,22 @@ Le Dark Web n'a pas de plan officiel. Il n'y a pas de grand algorithme Google po
   * `http://sdolvtfnpvsysgoez33gn6ogcyasfqpuvzhvbh3bdls66st7ru7vjxid.onion/`
   * **Ce qu'on y trouve :** Ce n'est pas un site de lecture, mais une interface chiffrée utilisée par des ONG et de grands journaux pour permettre aux lanceurs d'alerte (Whistleblowers) de leur transmettre des documents confidentiels sans risquer de se faire identifier par leur gouvernement.
 
+### 4. Les Forums de Hacking (Le cœur de l'information)
+
+* **BreachForums**
+  * `http://breachf5ykfuyogm5vstfgn6pccu3uovks7bxlmpxo5oyunlxk5ihaid.onion/`
+  * **Ce qu'on y trouve :** C'est le carrefour mondial des fuites de données. Lorsqu'une entreprise ou un service est piraté, les bases de données (emails, mots de passe, informations personnelles) sont souvent publiées ici en premier. C'est une ressource indispensable pour l'OSINT liée aux fuites (Leaks).
+
+* **XSS.is / Exploit.in**
+  * `http://xssforum3n36vks656v3aooov5onow2mbs5n3m3v4y2f5v5n5n5n5n5n.onion/`
+  * **Ce qu'on y trouve :** Ces forums russes sont les piliers techniques du milieu. On y trouve des discussions sur les vulnérabilités de type "0-day", la vente d'accès à des réseaux d'entreprise et des malwares sophistiqués. L'ambiance y est très professionnelle et "business-oriented".
+
+* **Dread**
+  * `http://dreadytof462v62bsh5p6v6rsc7spsscbtuoyk3iv6jowfayid33xozad.onion/`
+  * **Ce qu'on y trouve :** Souvent décrit comme le "Reddit" du Dark Web. Grâce à ses sous-communautés (sub-dreads) comme `/d/hacking` ou `/d/cybersecurity`, c'est l'endroit idéal pour suivre l'actualité des cyber-attaques, lire des Retours d'Expérience (REX) ou trouver des tutoriels techniques.
+
 ---
+
 
 ## 🚨 Les 3 Règles d'Or de l'Analyste
 
