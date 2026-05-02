@@ -74,12 +74,13 @@ appelée DCShadow ou DCSync pour vider la base de données de tous les secrets d
 
 ### Chapitre 5 : Résumé pour wooami.net
 
-|Terme|Ce qu'il faut comprendre|
-|Coercition|Forcer un serveur à initier une connexion vers l'attaquant.|
-|PrinterBug|Utiliser le service d'impression pour forcer le rappel.|
-|PetitPotam|Utiliser le service de fichiers chiffrés pour forcer le rappel.|
-|NTLM Relay|Intercepter une authentification et la renvoyer vers une autre cible pour usurper l'identité.|
-|Compte Machine ($)|L'identité unique d'un serveur (ex: DC01$). Sa compromission est fatale.|
+| Terme                  | Ce qu'il faut comprendre                                                                                                                                 |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Coercition             | Forcer un serveur à initier une connexion vers l'attaquant.                                                                                              |
+| PrinterBug             | Utiliser le service d'impression pour forcer le rappel.                                                                                                  |
+| PetitPotam             | Utiliser le service de fichiers chiffrés pour forcer le rappel.                                                                                          |
+| NTLM Relay             | Intercepter une authentification et la renvoyer vers une autre cible pour usurper l'identité.                                                           |
+| Compte Machine ()      | L'identité unique d'un serveur (ex: DC01). Sa compromission est fatale.                                                                                 |
 
 ### La Conclusion du Professeur
 
