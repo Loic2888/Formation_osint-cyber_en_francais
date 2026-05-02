@@ -247,14 +247,15 @@ D) Autoriser l'accès internet à tous les serveurs.
 
 ### Correction (Réponses)
 
-|Question|Réponse Correcte|Explication Rapide|
-|1|C|La Forêt est la limite de sécurité maximale.|
-|2|B|Le spraying évite le verrouillage des comptes.|
-|3|C|BloodHound utilise des graphes pour cartographier le domaine.|
-|4|B|On reste au même niveau de privilège, on change juste de machine.|
-|5|C|C'est l'empreinte que Mimikatz cherche à voler.|
-|6|B|LSASS est le coffre-fort des secrets en mémoire vive.|
-|7|C|Le SPN lie un service à un compte dont on veut craquer le hash.|
-|8|B|C'est une faille de confiance qui permet de voler des TGT.|
-|9|A|On force le serveur à nous parler pour récupérer son hash machine.|
-|10|C|Le Tier 0 est le "Saint des Saints" à protéger absolument.|
+| Question | Réponse Correcte | Explication Rapide |
+| --- | --- | --- |
+| 1 | C | La Forêt est la limite de sécurité maximale. |
+| 2 | B | Le spraying évite le verrouillage des comptes. |
+| 3 | C | BloodHound utilise des graphes pour cartographier le domaine. |
+| 4 | B | On reste au même niveau de privilège, on change juste de machine. |
+| 5 | C | C'est l'empreinte que Mimikatz cherche à voler. |
+| 6 | B | LSASS est le coffre-fort des secrets en mémoire vive. |
+| 7 | C | Le SPN lie un service à un compte dont on veut craquer le hash. |
+| 8 | B | C'est une faille de confiance qui permet de voler des TGT. |
+| 9 | A | On force le serveur à nous parler pour récupérer son hash machine. |
+| 10 | C | Le Tier 0 est le "Saint des Saints" à protéger absolument. |
