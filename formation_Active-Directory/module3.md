@@ -96,12 +96,13 @@ Il peut maintenant accéder à toutes les données de la base de données SQL (f
 
 ### Chapitre 5 : Résumé détaillé pour wooami.net
 
-|Concept|Explication Profonde|
-|KDC (Key Distribution Center)|C'est le rôle du Contrôleur de Domaine dans Kerberos. C'est lui qui distribue les tickets.|
-|TGT (Ticket Granting Ticket)|Votre "bracelet" d'entrée. Il prouve que vous avez fourni le bon mot de passe au début.|
-|TGS (Ticket Granting Service)|Le coupon pour un service précis. C'est lui qu'on intercepte pour le Kerberoasting.|
-|SPN (Service Principal Name)|L'identifiant unique d'un service dans l'AD. Sans SPN, pas de Kerberoasting possible.|
-|Hashcat|L'outil qui permet de tester des millions de mots de passe sur le ticket volé.|
+| Concept | Explication Profonde |
+| --- | --- |
+| KDC (Key Distribution Center) | C'est le rôle du Contrôleur de Domaine dans Kerberos. C'est lui qui distribue les tickets. |
+| TGT (Ticket Granting Ticket) | Votre "bracelet" d'entrée. Il prouve que vous avez fourni le bon mot de passe au début. |
+| TGS (Ticket Granting Service) | Le coupon pour un service précis. C'est lui qu'on intercepte pour le Kerberoasting. |
+| SPN (Service Principal Name) | L'identifiant unique d'un service dans l'AD. Sans SPN, pas de Kerberoasting possible. |
+| Hashcat | L'outil qui permet de tester des millions de mots de passe sur le ticket volé. |
 
 ### Conclusion du Professeur
 
