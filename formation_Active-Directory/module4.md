@@ -76,10 +76,11 @@ le serveur Web, de forcer la génération de tickets pour d'autres utilisateurs,
 
 ### Chapitre 5 : Résumé pour wooami.net
 
-|Type de Délégation|Dangerosité|Pourquoi ?|
-|Non Contrainte|🔥🔥🔥 (Critique)Le serveur vole le TGT de quiconque s'y connecte.|
-|Contrainte|⚠️⚠️ (Moyenne/Haute)Limitée à certains services, mais exploitable via des protocoles spécifiques.|
-|RBCD (Resource-Based)|⚠️ (Basse)C'est le serveur final qui décide qui peut se faire passer pour qui. Plus moderne et sûr.|
+| Type de Délégation          | Dangerosité                                 | Pourquoi ?                                                                 |
+| --------------------------- | ------------------------------------------- | --------------------------------------------------------------------------- |
+| Non Contrainte              | 🔥🔥🔥 (Critique) Le serveur vole le TGT de quiconque s'y connecte. |                                                                           |
+| Contrainte                  | ⚠️⚠️ (Moyenne/Haute) Limitée à certains services, mais exploitable via des protocoles spécifiques. |                     |
+| RBCD (Resource-Based)       | ⚠️ (Basse) C'est le serveur final qui décide qui peut se faire passer pour qui. Plus moderne et sûr. |             |
 
 ### La Conclusion du Professeur
 
