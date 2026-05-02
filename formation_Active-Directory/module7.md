@@ -84,12 +84,13 @@ Credential Guard : Utilise la virtualisation pour isoler les secrets d'authentif
 
 ### Chapitre 5 : Résumé pour wooami.net
 
-|Concept|Action de défense|Pourquoi ?|
-|SIEM|Surveillance des logs|Détecter les comportements anormaux (ex: Password Spraying).|
-|Honeytokens|Création de faux comptes|Piéger l'attaquant lors de sa reconnaissance.|
-|krbtgt Reset|Double réinitialisation|Tuer les Golden Tickets et les accès persistants.|
-|Tiering|Compartimentation|Empêcher un attaquant de passer d'un PC vers un serveur.|
-|LSA Protection|Blindage mémoire|Bloquer des outils comme Mimikatz.|
+| Concept             | Action de défense                        | Pourquoi ?                                                                        |
+| ------------------- | ---------------------------------------- | --------------------------------------------------------------------------------- |
+| SIEM                | Surveillance des logs                    | Détecter les comportements anormaux (ex: Password Spraying).                     |
+| Honeytokens         | Création de faux comptes                 | Piéger l'attaquant lors de sa reconnaissance.                                     |
+| krbtgt Reset        | Double réinitialisation                  | Tuer les Golden Tickets et les accès persistants.                                |
+| Tiering             | Compartimentation                        | Empêcher un attaquant de passer d'un PC vers un serveur.                         |
+| LSA Protection      | Blindage mémoire                         | Bloquer des outils comme Mimikatz.                                               |
 
 ### La Conclusion Finale du Professeur
 
