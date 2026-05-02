@@ -82,11 +82,12 @@ pour ne pas casser les tickets en cours). Si on ne le change qu'une fois, le Gol
 
 ### Chapitre 5 : Résumé pour wooami.net
 
-|Terme|Ce qu'il faut retenir pour l'examen|
-|krbtgt|Le compte le plus critique de l'AD. Son mot de passe signe tous les tickets Kerberos.|
-|DCSync|Technique pour simuler une réplication entre serveurs et voler des secrets sans toucher à la RAM.|
-|Golden Ticket|Un ticket TGT forgé de toutes pièces qui donne des droits illimités et éternels.|
-|SID (Security Identifier)|L'identifiant unique du domaine nécessaire pour forger le ticket.|
+| Terme                  | Ce qu'il faut retenir pour l'examen                                                                                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| krbtgt                 | Le compte le plus critique de l'AD. Son mot de passe signe tous les tickets Kerberos.                                                                            |
+| DCSync                 | Technique pour simuler une réplication entre serveurs et voler des secrets sans toucher à la RAM.                                                                |
+| Golden Ticket          | Un ticket TGT forgé de toutes pièces qui donne des droits illimités et éternels.                                                                                |
+| SID (Security Identifier) | L'identifiant unique du domaine nécessaire pour forger le ticket.                                                                                             |
 
 ### La Conclusion du Professeur
 
